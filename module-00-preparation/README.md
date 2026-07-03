@@ -173,7 +173,3 @@ This module is not about memorization.
 It is about understanding the Java platform deeply enough to confidently build real-world applications in the next stages of the Bootcamp.
 
 ---
-
-## Next Step
-
-Proceed to **Module 01: Core Java Language Fundamentals**
