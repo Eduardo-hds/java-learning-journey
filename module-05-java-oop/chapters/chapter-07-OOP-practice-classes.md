@@ -396,7 +396,3 @@ You have now practiced every core concept introduced in this module:
 * Modeling real-world entities using Object-Oriented Programming
 
 You are now ready to apply these concepts in complete applications.
-
-## ▶️ Next Step
-
-Continue to **Project 1 — Student Management System**, where you will begin building your first complete object-oriented application. The project will be developed incrementally, allowing you to apply everything learned in this module while following professional project organization and clean coding practices.

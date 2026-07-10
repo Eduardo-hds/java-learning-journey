@@ -185,13 +185,3 @@ Now implement the **full program in a single Java class**:
 * min/max
 * search
 * print report
-
----
-
-# ✔️ End of Module 04
-
-If you want, next step I can:
-
-* Review your solution
-* Refactor your code like a senior Java developer
-* Or move you to **Module 05 (Methods & Modular Design)**

@@ -287,13 +287,3 @@ You have now learned:
 * Design decisions
 * Real system implementation
 
----
-
-# 📊 Next Step
-
-If you want to continue the Bootcamp:
-
-We can move to:
-
-## 🚀 Module 09 — Polymorphism (Runtime Behavior & Advanced OOP Design)
-

@@ -68,5 +68,3 @@ fibonacciMenu()
 The goal is to make `main()` as small and readable as possible.
 
 Do **not** put all the logic inside a single method.
-
----

@@ -596,16 +596,3 @@ You have completed **Module 11 — Strings**.
 
 This module is a major milestone because Strings are one of the most frequently used types in Java. The concepts you've learned here—especially **immutability**, **reference vs. content comparison**, and **efficient text construction**—will appear constantly in professional Java development.
 
-## ✔️ Next Module
-
-**Module 12 — Wrapper Classes & Autoboxing**
-
-In the next module, you'll learn:
-
-* Wrapper classes (`Integer`, `Double`, `Boolean`, `Character`, etc.)
-* Autoboxing and unboxing
-* Why collections require wrapper types
-* Utility methods such as `parseInt()`, `valueOf()`, and numeric conversions
-* Common pitfalls involving `null`, wrappers, and comparisons
-
-This module will bridge the gap between Java primitives and the object-oriented APIs that use them extensively.
